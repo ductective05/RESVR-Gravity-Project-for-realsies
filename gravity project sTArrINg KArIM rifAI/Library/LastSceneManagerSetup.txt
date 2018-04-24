@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Gravity Project sTArrINg OthER PEopLE tHAn KArIM rifAI.unity
+  isLoaded: 1
+  isActive: 1
