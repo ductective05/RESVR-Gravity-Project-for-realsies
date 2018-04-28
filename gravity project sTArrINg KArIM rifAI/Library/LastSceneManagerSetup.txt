@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Lucas pukas.unity
+- path: Assets/calan.unity
   isLoaded: 1
   isActive: 1
